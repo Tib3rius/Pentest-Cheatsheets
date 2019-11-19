@@ -1,0 +1,12 @@
+div.document {width:auto !important}
+div.body {max-width:none !important}
+div.body p {font-size:0.9em !important}
+
+pre {white-space:pre-wrap !important;white-space:-moz-pre-wrap !important;white-space:-pre-wrap !important;white-space:-o-pre-wrap !important;word-wrap:break-word !important;line-height:1.5em !important}
+li.toctree-l1 > a {font-size:0.9em !important}
+p.caption > span.caption-text {font-weight:bold !important}
+div.highlight > pre {font-size:0.8em !important}
+.wy-nav-content {max-width:none !important}
+.rst-content table.docutils td {vertical-align:top !important;overflow-wrap:break-word !important;word-wrap:break-word !important;word-break:break-word !important;hyphens:auto !important;white-space:normal !important;}
+.wy-table-responsive {overflow:unset !important}
+.wy-table-responsive table {table-layout:fixed !important;max-width:100% !important;}
